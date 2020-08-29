@@ -1,9 +1,9 @@
 # Auto-rotate-not-work-after-lock-screen-FIX
 
-##decompile framework-res.apk
-##res/values/bools.xml
+decompile framework-res.apk
+res/values/bools.xml
 
-##<bool name="config_useSystemClockforRotationSensor">false</bool>
+<bool name="config_useSystemClockforRotationSensor">false</bool>
 
-##replace false to true and fixed :)
-##by enki
+replace false to true and fixed :)
+by enki
