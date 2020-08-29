@@ -1,0 +1,4 @@
+framework\res\values\bools.xml
+<bool name="config_useSystemClockforRotationSensor">false</bool>
+
+değeri true yapın
